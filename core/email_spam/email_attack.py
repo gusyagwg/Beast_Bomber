@@ -117,7 +117,7 @@ class EmailAttack:
 ║    то делайте это в следующем вормате:     ║
 ║           email, email, email              ║
 ║                                            ║
-║       Формат email: email@email.com        ║
+║       Формат email: justus.karlen@gmail.com        ║
 ╚════════════════════════════════════════════╝
                     """
             text3 = "Сообщение для отправки > "
